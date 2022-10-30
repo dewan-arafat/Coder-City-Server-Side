@@ -1,0 +1,56 @@
+[
+  {
+    "id": "a01",
+    "name": "MERN Stack Web Dev",
+    "class_": "510",
+    "duration": 630,
+    "price": "50$",
+    "img": "https://wallpapercave.com/wp/wp8903890.jpg",
+    "caption": "MERN Stack Roadmap, React JS Fundamental,React  Functional Component & Hooks, React Class Component, React Essential Packages, React With Axios, React-Redux, React-Redux Counter Project and more."
+  },
+  {
+    "id": "a02",
+    "name": "C++ Programming for Beginners",
+    "class_": "300",
+    "duration": 320,
+    "price": "70$",
+    "img": "https://p4.wallpaperbetter.com/wallpaper/926/492/891/code-c-c-plus-plus-wallpaper-preview.jpg",
+    "caption": "Getting Started, Classes and Objects, Overloading, Polymorphic Programming, Code Reuse in C++, Designing with C++."
+  },
+  {
+    "id": "a03",
+    "name": "Java Programming for Beginners",
+    "class_": "250",
+    "duration": 300,
+    "price": "60$",
+    "img": "https://p4.wallpaperbetter.com/wallpaper/510/989/208/web-development-development-java-wallpaper-preview.jpg",
+    "caption": "Course Introduction, Getting Started with Java, Eclipse,  Datatypes and Variables, Operators and Expressions, Control Flow, Methods, Object-Oriented Programming and More"
+  },
+  {
+    "id": "a04",
+    "name": "Node/Express.js for Beginners",
+    "class_": "120",
+    "duration": 150,
+    "price": "55$",
+    "img": "https://p4.wallpaperbetter.com/wallpaper/570/369/129/node-js-javascript-hexagon-abstract-wallpaper-preview.jpg",
+    "caption": "Node JS Modules, Node Package Manager, Creating Web Server, File System, Debugging Node JS Application, Events, Express JS and More. "
+  },
+  {
+    "id": "a05",
+    "name": "React.js Project",
+    "class_": "50",
+    "duration": 100,
+    "price": "45$",
+    "img": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg",
+    "caption": "Creating API with PHP and using React JS, Use of JSON in Application, React's required plugins to project, React Bootstrap for Designing, Project Implementation with Database on Real Server."
+  },
+  {
+    "id": "a06",
+    "name": "Android App Development",
+    "class_": "400",
+    "duration": 450,
+    "price": "80$",
+    "img": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg",
+    "caption": "Object Oriented Programming (OOP) concept in JAVA, Introduction to Android, User Interface and Navigation, Activity, Background Job, Storage,  Google Play Services."
+  }
+]
